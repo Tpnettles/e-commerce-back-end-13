@@ -3,6 +3,7 @@ const { Category } = require('../models');
 const categoryData = [
   {
     category_name: 'Shirts',
+    id:1
   },
   {
     category_name: 'Shorts',
